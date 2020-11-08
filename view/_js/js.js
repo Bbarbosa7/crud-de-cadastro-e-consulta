@@ -1,0 +1,1 @@
+alert('Olá! Bem vindo(a) ao sistema de cadastro e consulta.')
